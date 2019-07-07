@@ -12,6 +12,7 @@ defineSupportCode(function({ Given }) {
   });
 
   // *** belongs to ta-loging  feature
+  //checking with update for git
   Given(/^I am on the phptravels page$/, function() {
     loginPage.open();     // navigating to login page
   });
